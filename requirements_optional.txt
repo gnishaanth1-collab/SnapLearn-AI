@@ -1,0 +1,3 @@
+# Optional:
+# Install Ollama separately and pull a local model, e.g. qwen3:4b
+# pip install qai-hub
